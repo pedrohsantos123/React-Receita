@@ -1,0 +1,14 @@
+[
+    {
+      "id": 1,
+      "titulo": "Pudim",
+      "ingredientes": " 1 lata de leite condensado, 3 ovos inteiros, 1 xícara (chá) de açúcar, 1 lata de leite (medida da lata de leite condensado), 1/2 xícara de água.",
+      "modoPreparo": "Primeiro, bata bem os ovos no liquidificador, Acrescente o leite condensado e o leite, e bata novamente, Calda: Derreta o açúcar na panela até ficar moreno, acrescente a água e deixe engrossar, coloque em uma forma redonda e despeje a massa do pudim por cima, asse em forno médio por 45 minutos, com a assadeira redonda dentro de uma maior com água, espete um garfo para ver se está bem assado, deixe esfriar e desenforme."
+    },
+    {
+      "id": 2,
+      "titulo": "Macarrão à carbonara",
+      "ingredientes": "Macarrão de sua escolha (espaguete, fusili,etc.), bacon picado a gosto, 3 ovos, pimenta-do-reino a gosto, creme de leite se quiser dar um toque diferente à receita, queijo parmesão ralado a gosto e sal.",
+      "modoPreparo": "Modo de preparo : 15minutos, frite bem o bacon, até ficar crocante (pode-se adicionar salame picado), coloque o macarrão para cozinhar em água e sal, no recipiente onde será servido o macarrão, bata bem os ovos com um garfo, tempere com sal e pimenta a gosto, e junte o queijo ralado, também a gosto, quando o macarrão estiver pronto, escorra e coloque (bem quente) sobre a mistura de ovos, misture bem. O calor da massa cozinha os ovos e coloque o bacon, ainda quente, sobre o macarrão e sirva. ."
+    }
+  ]
